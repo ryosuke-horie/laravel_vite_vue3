@@ -12,7 +12,7 @@ export default defineConfig({
     ],
     server: {
         // 外部公開
-        host: '0.0.0.0',
+        host: 'xxx.xxx.xxx.xxx', // IPを記載
         // 立ち上げる際のポートを変更できます。
         port: 5173
     }
